@@ -28,7 +28,7 @@ const ProfileDetails = (props) => {
           <Col xs={12} md={8}>
             <Col xs={12} md={8}>
               <div>
-                {props.infoclean.name ? <div><p><b>Name: </b> {props.infoclean.name}</p></div> : null }
+                {props.infoclean.name ? <div><p><b>Name: </b>{props.infoclean.name}</p></div> : null }
               </div>
             </Col>
             <Col xs={12} md={4}>

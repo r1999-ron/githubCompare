@@ -1,9 +1,10 @@
 
+
 import React, { Component } from 'react';
-import axios from 'axios'; 
-import Form from './components/Form.js';
+import axios from 'axios'; import Form from './components/Form.js';
 import ProfileDetails from './components/ProfileDetails.js'; 
 import SortedList from './components/SortedList';
+
 
 class App extends Component {
   constructor() {
@@ -39,6 +40,7 @@ class App extends Component {
         })).catch((err) => {
           console.log(err);
         });
+
       axios.get('https://api.github.com/users/' + this.state.formData.username + '/starred')
       .then(response => 
         this.setState({
@@ -51,6 +53,7 @@ class App extends Component {
           console.log(err);
         });
       };
+      
      handleFormChange(event) {
     const obj = this.state.formData;
     obj[event.target.name] = event.target.value;

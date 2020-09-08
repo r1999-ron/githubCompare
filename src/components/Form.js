@@ -13,7 +13,7 @@ const Form = (props) => {
             className="form-control"
             name="username"
             type="text"
-            placeholder="vabhishek"
+            placeholder="Enter username"
             required
             value={props.formData.username}
             onChange={props.handleFormChange}
