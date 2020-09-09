@@ -9,7 +9,7 @@ Node js, npm and create react app were already installed.
 
 * create-react-app hello-app
 
-Once this stage has been completed, I've changed the directory with cd hello-app/ and entered npm start to check whether everything is working fine or not.
+Once this stage has been completed, I've changed the directory with cd hello-app/ and enter npm start to check whether everything is working fine or not.
 
 Inside the directory hello-app following packages were installed like index.css, App.css and App.js. Along with that package.json which contains all the useful information of 
 the installed packages.
