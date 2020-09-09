@@ -36,7 +36,7 @@ gists and some others.
 
 Next worked on the list of own and starred repositories.
 
-Finally applied some basic analysis on received information for repositories like for user's own repositories we'll count the number of repositories for each programming languages. Added some styling and adjusted the width and height of the UI to make it user friendly.
+Finally applied some basic analysis on received information for repositories like for user's own repositories we'll count the number of repositories for each programming languages. Added some styling and adjusted the width and height of the UI to make it look more attractive and realistic.
 
 
 ## Deployment
