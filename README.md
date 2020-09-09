@@ -18,7 +18,7 @@ Created a sub-folder components inside src folder. Here created component folder
 
 This is how I've created the structure of my project on Day1.
 
-### Day 2
+## Day 2
 
 Started exploring the Button.js file where user's intention is that the button should be clicked! when pressing on Search button.
 Next I've installed axios using npm install axios. Axios is used to make HTTP requests i.e. we can fetch an api using HTTP getRequest.
@@ -30,7 +30,7 @@ Finally, replaced Search button with a Form.js to allow users to search GitHub b
 On Day2, just worked on fetching detailed information from the api that is being provided to us using axios call where one can able to request any data from GitHub API and 
 display that on their webpage.
 
-### Day 3
+## Day 3
 Started exploring ProfileDetails.js file where I've pulled various data points of the profile such as Name, Bio, Location, total number of repos, followers, following, total
 gists and some others.
 
@@ -39,7 +39,7 @@ Next worked on the list of own and starred repositories.
 Finally applied some basic analysis on received information for repositories like for user's own repositories we'll count the number of repositories for each programming languages. Added some styling and adjusted the width and height of the UI to make it user friendly.
 
 
-### Deployment
+## Deployment
 https://r1999-ron.github.io/githubCompare/
 
 ## Available Scripts
