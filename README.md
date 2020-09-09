@@ -34,13 +34,13 @@ display that on their webpage.
 Started exploring ProfileDetails.js file where I've pulled various data points of the profile such as Name, Bio, Location, total number of repos, followers, following, total
 gists and some others.
 
-Next worked on the list of own and starred repositorie.
+Next worked on the list of own and starred repositories.
 
 Finally applied some basic analysis on received information for repositories like for user's own repositories we'll count the number of repositories for each programming languages. Added some styling and adjusted the width and height of the UI to make it user friendly.
 
 
 ### Deployment
-https://r19999-ron.github.io/githubCompare/
+https://r1999-ron.github.io/githubCompare/
 
 ## Available Scripts
 
